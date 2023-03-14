@@ -30,12 +30,22 @@ function AppBar() {
 					</div>
 				</div>
 			</div>
-			<div>
-				<a href="https://docs.google.com/spreadsheets/d/1DBnPUmH1l79fgBzt0dj1J0R6XvgPuK-01b06cCFV7qE/edit?usp=sharing" target="_blank">Spreadsheet</a>
-				<a href="./IntHtml/ModalML.html" target="_blank">Analytics - Count</a>
-			</div>
 			<div style={{ position: 'relative', top: 5, right: 15}}>
 				<div style={{ float: 'right'}}>
+					<div style={{ float: 'left', position: 'relative', bottom: 5 }}>
+						<a href="https://docs.google.com/spreadsheets/d/1DBnPUmH1l79fgBzt0dj1J0R6XvgPuK-01b06cCFV7qE/edit?usp=sharing" target="_blank" style={{ textDecoration: 'none' }}>
+							<h3 style={{ fontFamily: 'Arial, Helvetica, sans-serif', color: '#000000', border: '2px solid black' }}>
+								Spreadsheet
+							</h3>
+						</a>
+					</div>
+					<div style={{ float: 'left', position: 'relative', bottom: 5, paddingLeft: 10 }}>
+						<a href="./IntHtml/ModalML.html" target="_blank" style={{ textDecoration: 'none' }}>
+							<h3 style={{ fontFamily: 'Arial, Helvetica, sans-serif', color: '#000000', border: '2px solid black' }}>
+								Analytics
+							</h3>
+						</a>
+					</div>
 					<div style={{ float: 'left' }}>
 						<img style={{ }} src={SettingsLogo} />
 					</div>

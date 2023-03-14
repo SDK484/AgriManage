@@ -275,7 +275,7 @@ function AppMap ({ }) {
                     </div>
                 </div>
             </div>
-            <ToastContainer />
+            <ToastContainer theme="dark" />
         </div>
     );
 }
