@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/agri-manage/static/css/main.3f344e1b.css",
-    "main.js": "/agri-manage/static/js/main.caf04bf1.js",
+    "main.js": "/agri-manage/static/js/main.bd8362a9.js",
     "static/media/Grass1.png": "/agri-manage/static/media/Grass1.38619e742acecd461465.png",
     "static/media/Grass2.png": "/agri-manage/static/media/Grass2.43efc3cc3738821acffd.png",
     "static/media/Farm.png": "/agri-manage/static/media/Farm.d9f5fa447efa9130bb09.png",
     "index.html": "/agri-manage/index.html",
     "main.3f344e1b.css.map": "/agri-manage/static/css/main.3f344e1b.css.map",
-    "main.caf04bf1.js.map": "/agri-manage/static/js/main.caf04bf1.js.map"
+    "main.bd8362a9.js.map": "/agri-manage/static/js/main.bd8362a9.js.map"
   },
   "entrypoints": [
     "static/css/main.3f344e1b.css",
-    "static/js/main.caf04bf1.js"
+    "static/js/main.bd8362a9.js"
   ]
 }
